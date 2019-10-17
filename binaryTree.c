@@ -17,8 +17,8 @@
  *  11.) function to find a node's height in the tree.
  *
  *
- *  Note, this is a test implementation. The code is not tested. To use it is at your own risk. 
- *  The codes have neither been tested or optimized yet.
+ *  Note, this is a test implementation. The code is not tested or optimized. To use it is at your own risk. 
+ *  Note, too many recursive function calls may run out of stack memory.
  *
  *
  *
